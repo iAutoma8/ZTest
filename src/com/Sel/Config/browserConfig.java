@@ -34,6 +34,7 @@ public class browserConfig {
 	public void launchBrowser() {
 		System.setProperty("webdriver.chrome.driver", "D:\\EE\\MyWork\\ZTest\\driver\\chromedriver.exe");
 		driver = new ChromeDriver();
+		driver.get("https://www.google.co.in");
 		driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
 
 	}

@@ -8,7 +8,8 @@
   </listeners>
   <test name="Test" verbose="10">
     <classes>
-      <class name="com.Sel.Tests.LoginWebAuthTest"/>
+     <!--  <class name="com.Sel.Tests.LoginWebAuthTest"/> -->
+      <class name="com.Sel.Tests.BrokenLinkTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

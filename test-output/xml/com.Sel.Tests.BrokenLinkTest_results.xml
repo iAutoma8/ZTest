@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.823">
+  <properties />
+  
+  
+            <testcase name="verifyBrokenLinks" time="22.823" classname="com.Sel.Tests.BrokenLinkTest" />
+      
+</testsuite>
